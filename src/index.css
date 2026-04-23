@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{
+  font-family: Saira, sans-serif;
+}
+
+@theme{
+  --color-primary: #ffcb05;
+  --color-dark: #363732;
+}
