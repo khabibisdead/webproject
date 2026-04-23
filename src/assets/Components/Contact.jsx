@@ -1,6 +1,6 @@
 import React from "react";
 
-const Contuct = () => {
+const Contact = () => {
   return (
     <div className="mt-20 px-6">
 
@@ -48,4 +48,4 @@ const Contuct = () => {
   );
 };
 
-export default Contuct;
+export default Contact;
